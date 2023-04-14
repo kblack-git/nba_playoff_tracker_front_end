@@ -1,0 +1,11 @@
+h1 {
+    margin: auto;
+    text-align: center;
+    
+}
+
+.conference
+ {
+    display: flex;
+    justify-content: space-around;
+}
